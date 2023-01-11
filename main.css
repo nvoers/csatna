@@ -6,6 +6,7 @@
 body{
     margin: 0;
     font-family: 'Haas';
+    height: 100vh;
 }
 
 .header {
@@ -21,4 +22,19 @@ body{
     text-align: center;
     padding-left: 0.75rem;
     padding-right: 0.75rem;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.CS {
+    font-size: 4rem;
+    line-height: 1;
+    text-align: center;
 }
