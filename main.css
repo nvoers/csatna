@@ -1,14 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
     font-family: "Haas";
     src: url('NeueHaas.ttf') format('truetype'); 
 }
 
 body{
-    margin: 0;
     font-family: 'Haas';
-    height: 100vh;
 }
-
+/* 
 .header {
     display: flex;
     justify-content: center;
@@ -37,4 +39,4 @@ body{
     font-size: 4rem;
     line-height: 1;
     text-align: center;
-}
+} */

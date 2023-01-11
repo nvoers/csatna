@@ -1,0 +1,22 @@
+{
+  "name": "csatna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvoers/csatna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvoers/csatna/issues"
+  },
+  "homepage": "https://github.com/nvoers/csatna#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
