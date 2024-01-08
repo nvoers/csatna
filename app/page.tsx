@@ -1,16 +1,10 @@
-import Link from 'next/link'
 import Image from 'next/image'
+import Header from '@/components/header'
 
 export default function Home() {
   return (
     <main className="bg-neutral-50 text-black selection:bg-pink-600 dark:bg-neutral-900 dark:text-white dark:selection:text-white">
-      <div className="navbar">
-        <div className="flex-1">
-          <Link href="/" className="btn btn-ghost text-xl">CSATNA</Link>
-          <Link href="/" className="text-neutral-500 px-4 hover:text-black hover:underline dark:hover:text-black">Order</Link>
-          <Link href="/" className="text-neutral-500 px-4 hover:text-black hover:underline">CSATNA x BATA</Link>
-        </div>
-      </div>
+      <Header />
 
       <div className="mx-auto grid max-w-screen-2xl gap-4 px-4 pb-4 md:grid-cols-6 md:grid-rows-2">
         <div className="md:col-span-4 md:row-span-2 overflow-hidden rounded-lg hover:border-2 hover:border-black">
