@@ -43,6 +43,11 @@ export default function Home() {
                     </Link>
                 </div>
             </div>
+            <div className='container mx-auto px-4 flex justify-center'>
+                <Link href={"/order"} className='btn btn-outline'>
+                    <p>ORDER HERE</p>
+                </Link>
+            </div>
         </main>
     );
 }
