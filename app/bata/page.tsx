@@ -16,6 +16,9 @@ export default function Home() {
                     <Image src="/mockups/skybluefront.png" width={300} height={300} alt="FRONT"/>
                 </div>
             </div>
+            <div className='container mx-auto pt-6'>
+                <p className='italic text-sm text-center'>Custom orders start from 16 shirts</p>
+            </div>
         </main>
     );
 }
