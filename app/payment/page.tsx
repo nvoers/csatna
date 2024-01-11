@@ -12,19 +12,19 @@ export default function Home() {
             </div>
             <div className='container mx-auto p-4 text-center'>
                 <div className='flex justify-center items-center'>
-                    <p>LINK 1</p>
+                    <a href="https://tikkie.me/pay/2voprscit44fjru55265">LINK 1</a>
                     {/* <p className='badge badge-error ml-2'>UNAVAILABLE</p> */}
                 </div>
                 <div className='flex justify-center items-center'>
-                    <p>LINK 2</p>
+                    <a href="https://tikkie.me/pay/9mfm61p68mnot3kdui9f">LINK 2</a>
                     {/* <p className='badge badge-error ml-2'>UNAVAILABLE</p> */}
                 </div>
                 <div className='flex justify-center items-center'>
-                    <p>LINK 3</p>
+                    <a href="https://tikkie.me/pay/3tu1fikrb8ukg8ogtvb5">LINK 3</a>
                     {/* <p className='badge badge-error ml-2'>UNAVAILABLE</p> */}
                 </div>
                 <div className='flex justify-center items-center'>
-                    <p>LINK 4</p>
+                    <a href="https://tikkie.me/pay/slb6087tlig3scl41dv6">LINK 4</a>
                     {/* <p className='badge badge-error ml-2'>UNAVAILABLE</p> */}
                 </div>
             </div>
