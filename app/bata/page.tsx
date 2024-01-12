@@ -17,7 +17,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='container mx-auto pt-6'>
-                <p className='italic text-sm text-center'>Custom orders start from 16 shirts</p>
+                <p className='italic text-sm text-center'>Custom orders start from 15 shirts</p>
             </div>
         </main>
     );

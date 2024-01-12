@@ -15,7 +15,7 @@ export default function Home() {
                             <p className="text-center">T-SHIRT</p>
                         </div>
                         <div className='absolute bottom-0 left-0 h-fit px-4 pb-4'>
-                            <div className='text-white font-semibold rounded-full bg-primary/70 px-2 py-2 text-sm'>€17.00 EUR</div>
+                            <div className='text-white font-semibold rounded-full bg-primary/70 px-2 py-2 text-sm'>€15.00 EUR</div>
                         </div>
                     </Link>
                 </div>
@@ -27,7 +27,7 @@ export default function Home() {
                             <p className="text-center">SWEATER</p>
                         </div>
                         <div className='absolute bottom-0 left-0 h-fit px-4 pb-4'>
-                            <div className='text-white font-semibold rounded-full bg-primary/70 px-2 py-2 text-sm'>€30.00 EUR</div>
+                            <div className='text-white font-semibold rounded-full bg-primary/70 px-2 py-2 text-sm'>€25.00 EUR</div>
                         </div>
                     </Link>
                 </div>
@@ -38,7 +38,7 @@ export default function Home() {
                             <p className="text-center">SPORT SHIRT</p>
                         </div>
                         <div className='absolute bottom-0 left-0 h-fit px-4 pb-4'>
-                            <div className='text-white font-semibold rounded-full bg-primary/70 px-2 py-2 text-sm'>€20.00 EUR</div>
+                            <div className='text-white font-semibold rounded-full bg-primary/70 px-2 py-2 text-sm'>€15.00 EUR</div>
                         </div>
                     </Link>
                 </div>
