@@ -12,7 +12,7 @@ export default function Home() {
             </div>
             <div className='container mx-auto p-4 text-center'>
                 <div className='flex justify-center items-center'>
-                    <a href="https://tikkie.me/pay/f7rpu9o9te211v4kq09r">LINK 1</a>
+                    <a href="https://tikkie.me/pay/h9ke3l95drl1dlih7qqi">LINK 1</a>
                     {/* <p className='badge badge-error ml-2'>UNAVAILABLE</p> */}
                 </div>
             </div>
