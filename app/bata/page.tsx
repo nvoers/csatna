@@ -7,7 +7,7 @@ export default function Home() {
             <Header />
             <div className='container mx-auto pb-10'>
                 <p className="text-4xl font-semibold text-center">CSATNA x BATA</p>
-                <p className="text-center px-6 pt-4">Want your batavierenrace team to run the race of their lives in these CSATNA sportshirts? <a href="mailto:info@csatna.online" className='underline'>Contact us</a> to get custom shirts with your team name or logo.</p>
+                <p className="text-center px-6 pt-4">Want your batavierenrace team to run the race of their lives in these CSATNA sportshirts? <a href="mailto:info@nickvanoers.nl" className='underline'>Contact us</a> to get custom shirts with your team name or logo.</p>
             </div>
             <div className='container mx-auto p-4'>
                 <div className='grid md:grid-cols-3 grid-cols-1 mx-auto gap-4 justify-items-center'>

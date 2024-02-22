@@ -8,7 +8,7 @@ export default function Home() {
             <div className='container mx-auto pb-8'>
                 <p className="text-4xl font-semibold text-center">CSATNA PAYMENT</p>
                 <p className="text-center px-6 pt-4">Thank you for ordering! Make your payment with one of the Tikkie links below.</p>
-                <p className="text-center px-6 pt-4">Contact info@csatna.online if you encounter any issues.</p>
+                <p className="text-center px-6 pt-4">Contact info@nickvanoers.nl if you encounter any issues.</p>
             </div>
             <div className='container mx-auto p-4 text-center'>
                 <div className='flex justify-center items-center'>
